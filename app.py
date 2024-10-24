@@ -1,6 +1,5 @@
 import streamlit as st
 import matplotlib.pyplot as plt
-
 st.image("logo.webp")
 
 st.title("🌍 Simple Carbon Footprint Calculator")
